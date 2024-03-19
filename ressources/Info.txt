@@ -1,0 +1,22 @@
+Connexion / inscription : OK
+
+Mise en ligne des news + suppression ou modif : OK
+
+Mon compte : OK
+
+Compteur d'utilisateur sur la page : OK
+
+Badge : OK
+
+Ban : OK
+
+Mail html (https://us12.admin.mailchimp.com/) : OK
+
+Newsletter : OK
+
+Editeur texte : OK
+
+Flux RSS : OK
+
+
+

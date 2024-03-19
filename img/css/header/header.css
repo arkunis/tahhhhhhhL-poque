@@ -1,0 +1,20 @@
+.header{
+border-bottom: 2px solid #333333;
+padding-bottom: 5px;
+margin-bottom: 1px;
+display: inline-block;
+width: 1150px;
+height: auto;
+}
+
+.logo_header{
+	max-width: 100%;
+	float:left;
+	margin-bottom: 5px;
+	height: 110px;
+}
+
+.social{
+margin-top: 5px;
+float: right;
+}

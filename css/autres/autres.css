@@ -1,0 +1,16 @@
+#message-winner {
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: #2ecc71;
+    color: #fff;
+    text-align: center;
+    line-height: 27px;
+
+}
+
+#ban{
+
+	float:left;
+	display: inline-block;
+}
